@@ -17,7 +17,7 @@ To install the project, follow these steps:
    cd your-project
    ```
 3. **Install dependencies:**
-   [Provide instructions on how to install dependencies, e.g., using pip, npm, or other package managers]
+   Project dependencies are listed in the `requirements.txt` file. You can install them using pip:
    ```bash
    pip install -r requirements.txt
    ```
@@ -54,6 +54,10 @@ We welcome contributions to improve this project. If you'd like to contribute, p
 
 Please ensure your code adheres to the project's coding standards and includes appropriate tests.
 
+## Requirements
+
+This project requires Python 3.x and the dependencies listed in the `requirements.txt` file.
+
 ## License
 
-This project is licensed under the [Your License Name] License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
